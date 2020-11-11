@@ -1,0 +1,6 @@
+﻿  roster.cpp
+C:\Users\von_a\source\repos\YvonneKingStudentRoster\YvonneKingStudentRoster\roster.cpp(39,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\von_a\source\repos\YvonneKingStudentRoster\YvonneKingStudentRoster\roster.cpp(43,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\von_a\source\repos\YvonneKingStudentRoster\YvonneKingStudentRoster\roster.cpp(47,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\von_a\source\repos\YvonneKingStudentRoster\YvonneKingStudentRoster\roster.cpp(51,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  YvonneKingStudentRoster.vcxproj -> C:\Users\von_a\source\repos\YvonneKingStudentRoster\Debug\YvonneKingStudentRoster.exe
